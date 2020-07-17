@@ -1,2 +1,2 @@
-# multiprogramming-mpi-ArmstrongNumbers
+# Multiprogramming-mpi-ArmstrongNumbers
 Cmpe300_project_Bogazici_University
